@@ -10,7 +10,7 @@ return(
     <div className="project-div">
         <h1 className="project-h1">Here are some of My Works</h1>
         <p className="fa-p">The UI part of face book using react Press the link below to get full deploy</p>
-        <a href="https://kal-facebook-ui2.netlify.app/">Link:  <span className="facebook-link">https://kal-facebook-ui2.netlify.app/</span></a>
+        <a href="https://65f2293ba7ffb33ee0c2ec8c--unique-pika-cf9049.netlify.app/">Link:  <span className="facebook-link">https://65f2293ba7ffb33ee0c2ec8c--unique-pika-cf9049.netlify.app/</span></a>
         <img src="./Screenshot (102)copy.png" className="facebook-img"/>
     </div>
     <div className="project-div">
@@ -23,7 +23,7 @@ return(
     <div className="project-div">
        <div>
        <p className="fa-p">Simple Todo List using react Press the link below to get full deploy</p>
-        <a href="https://kal-todo-list.netlify.app/" className="wether-link">Link:  <span className="Wether-span">https://kal-todo-list.netlify.app/</span></a>
+        <a href="https://65f22ec379bf5d408e47783e--roaring-swan-a56ec9.netlify.app/" className="wether-link">Link:  <span className="Wether-span">https://65f22ec379bf5d408e47783e--roaring-swan-a56ec9.netlify.app/</span></a>
        </div>
         <img src="./Screenshot (104)copy.png" className="wether-img"/>
     </div>
