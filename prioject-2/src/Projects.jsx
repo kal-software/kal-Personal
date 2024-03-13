@@ -41,6 +41,13 @@ return(
        </div>
         <img src="./count.png" className="wether-img"/>
     </div>
+    <div className="project-div">
+       <div>
+       <p className="fa-p">Simple Couter Press the link to see my deploy</p>
+        <a href="https://65f2210f49a02432d4398950--sweet-lamington-cbcaf0.netlify.app/" className="wether-link">Link:  <span className="Wether-span">https://65f2210f49a02432d4398950--sweet-lamington-cbcaf0.netlify.app/</span></a>
+       </div>
+        <img src="./calculator.png" className="wether-img"/>
+    </div>
 </div>
 </>
 )
