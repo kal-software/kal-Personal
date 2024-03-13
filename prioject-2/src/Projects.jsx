@@ -16,7 +16,7 @@ return(
     <div className="project-div">
        <div>
        <p className="fa-p">Simple Weather app using react Press the link below to get full deploy</p>
-        <a href="https://kal-wether-app.netlify.app/" className="wether-link">Link:  <span className="Wether-span">https://kal-wether-app.netlify.app/</span></a>
+        <a href="https://65f23071b781d74209dddb46--incredible-nougat-7a392b.netlify.app/" className="wether-link">Link:  <span className="Wether-span">https://65f23071b781d74209dddb46--incredible-nougat-7a392b.netlify.app/</span></a>
        </div>
         <img src="./Screenshot (103)copy.png" className="wether-img"/>
     </div>
